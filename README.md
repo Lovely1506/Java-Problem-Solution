@@ -29,4 +29,5 @@ SR No   | Program | Author
 22 | Prime Number program |  [Moola Pravalesh](https://github.com/MoolaPravalesh19)
 23 | Caesar Cipher Program  |   [Ankush Dutta](https://github.com/GenDelta)
 24 | Kadane's Algorithm  |   [Deepak Maurya](https://github.com/deepakmaur)
+25 | Generics class  |       [Lovely kumari](https://github.com/Lovely1506)
 
